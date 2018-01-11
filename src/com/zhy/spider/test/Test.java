@@ -23,7 +23,7 @@ public class Test
 			System.out.println(data.getLinkText());
 			System.out.println(data.getLinkHref());
 			System.out.println(data.getDatetime());
-			System.out.println("***********************************");
+			System.out.println("************************************");
 		}
 	}
 
